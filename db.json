@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "title": "First Post",
+      "body": "First Content",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "asd@asd.com",
+      "password": "$2a$10$8CDKIxNFCWwlQ/S69dq7g.rmEc45pSjjqFGs.bbGgka2Jzbm8iSOu",
+      "id": 1
+    },
+    {
+      "email": "asd@Asdasd.asd",
+      "password": "$2a$10$Ar7SReo0Qn6bgaxaE.KTVe2vWqN2xoIRfBRz0qryvv3oY08VbtTxu",
+      "id": 2
+    },
+    {
+      "email": "test@test.test",
+      "password": "$2a$10$HqXOpIkZ5.DYAX5kzNt7heqykp7PRbtkt2BW9QhP5xIfnWTCctfG2",
+      "id": 3
+    },
+    {
+      "email": "asd@asd@asda",
+      "password": "$2a$10$wiq8Dc4LGosJzUiVL2FpneTXMBCbvjkK0HROoT7L81kX43WOeoI4q",
+      "id": 4
+    }
+  ]
+}
